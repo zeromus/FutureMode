@@ -1,0 +1,10 @@
+/FutureFront/Debug/*.ilk
+/FutureFront/Debug/*.pdb
+/FutureFront/*.user
+/FutureFront/*.suo
+/FutureFront/bin/Debug/FutureFront.vshost.exe
+/FutureFront/obj/x86/Debug/*.cache
+/OctoWaddle/*.suo
+/OctoWaddle/*.user
+/OctoWaddle/Debug
+/FutureFront/obj/x86/Debug
